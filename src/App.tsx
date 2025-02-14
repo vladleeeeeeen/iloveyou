@@ -70,7 +70,7 @@ function App() {
         <div className="main">
             {isValentine ? (
                 <>
-                    <h2 className="title"> I love you &hearts; </h2>
+                    <h2 className="title"> To the best and most beautiful girl &hearts; </h2>
                     <img alt="cat animation" src={catAnimation} />
                 </>
             ) : (
